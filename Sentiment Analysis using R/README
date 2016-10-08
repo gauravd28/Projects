@@ -8,3 +8,6 @@ To analyze the tweets feed for positive and negative sentiments, we used R progr
 
 Sentiment Dictionary:
 We used AFINN-111 word scores for getting sentiment scores for common english words. Each word in the list have scores from -5 to +5 i.e. very negative to very positive.
+
+http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010
+https://arxiv.org/abs/1103.2903
